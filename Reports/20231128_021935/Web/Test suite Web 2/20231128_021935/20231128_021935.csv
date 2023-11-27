@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite Web 2,,,,2023-11-28 02:19:47,2023-11-28 02:19:50,3.602s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_31,,,,2023-11-28 02:19:47,2023-11-28 02:19:48,0.760s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:47,2023-11-28 02:19:48,0.355s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_39,,,,2023-11-28 02:19:48,2023-11-28 02:19:48,0.397s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:48,2023-11-28 02:19:48,0.028s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_38,,,,2023-11-28 02:19:48,2023-11-28 02:19:48,0.286s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:48,2023-11-28 02:19:48,0.034s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_37,,,,2023-11-28 02:19:48,2023-11-28 02:19:49,0.189s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.020s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_36,,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.223s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.019s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_35,,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.205s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.021s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_34,,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.178s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.008s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_33,,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.160s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:49,2023-11-28 02:19:49,0.008s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_32,,,,2023-11-28 02:19:49,2023-11-28 02:19:50,0.375s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:50,2023-11-28 02:19:50,0.031s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_40,,,,2023-11-28 02:19:50,2023-11-28 02:19:50,0.325s,FAILED
+"navigateToUrl(""https://www.google.com/"")",,,,2023-11-28 02:19:50,2023-11-28 02:19:50,0.033s,FAILED
