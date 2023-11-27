@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite API,,,,2023-11-28 00:35:54,2023-11-28 00:35:56,1.955s,FAILED
+,,,,,,,
+Test Cases/Test_API/API_1,,,,2023-11-28 00:35:56,2023-11-28 00:35:56,0.071s,FAILED
+"sendRequest(findTestObject(""API_Object/Trang Request""))",,,,2023-11-28 00:35:56,2023-11-28 00:35:56,0.049s,FAILED

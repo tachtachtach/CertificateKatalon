@@ -24,7 +24,7 @@
             <requireConfigurationData>true</requireConfigurationData>
             <runConfigurationId>iOS</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/Mobile/Test suite Mobile</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>

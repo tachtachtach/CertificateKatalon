@@ -1,0 +1,92 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite Web,Chrome 119.0.0.0,,,2023-11-28 00:15:35,2023-11-28 00:21:21,5m - 45.227s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_22,Chrome 119.0.0.0,,,2023-11-28 00:15:36,2023-11-28 00:15:37,0.760s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:15:36,2023-11-28 00:15:37,0.378s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_16,Chrome 119.0.0.0,,,2023-11-28 00:15:37,2023-11-28 00:15:37,0.413s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:15:37,2023-11-28 00:15:37,0.041s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_8,Chrome 119.0.0.0,,,2023-11-28 00:15:37,2023-11-28 00:15:59,21.905s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:15:37,2023-11-28 00:15:59,21.589s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_12,Chrome 119.0.0.0,,,2023-11-28 00:15:59,2023-11-28 00:16:19,19.769s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:15:59,2023-11-28 00:16:19,19.372s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_26,Chrome 119.0.0.0,,,2023-11-28 00:16:19,2023-11-28 00:16:24,5.104s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:16:19,2023-11-28 00:16:24,4.546s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_9,Chrome 119.0.0.0,,,2023-11-28 00:16:24,2023-11-28 00:16:41,17.060s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:16:24,2023-11-28 00:16:41,16.725s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_13,Chrome 119.0.0.0,,,2023-11-28 00:16:41,2023-11-28 00:16:58,17.384s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:16:41,2023-11-28 00:16:58,17.011s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_27,Chrome 119.0.0.0,,,2023-11-28 00:16:59,2023-11-28 00:17:01,2.968s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:16:59,2023-11-28 00:17:01,2.673s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_23,Chrome 119.0.0.0,,,2023-11-28 00:17:01,2023-11-28 00:17:13,11.615s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:17:02,2023-11-28 00:17:13,11.251s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_17,Chrome 119.0.0.0,,,2023-11-28 00:17:13,2023-11-28 00:17:21,8.179s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:17:13,2023-11-28 00:17:21,7.863s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_28,Chrome 119.0.0.0,,,2023-11-28 00:17:21,2023-11-28 00:17:25,3.499s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:17:22,2023-11-28 00:17:25,3.180s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_6,Chrome 119.0.0.0,,,2023-11-28 00:17:25,2023-11-28 00:17:42,17.466s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:17:25,2023-11-28 00:17:42,17.204s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_18,Chrome 119.0.0.0,,,2023-11-28 00:17:42,2023-11-28 00:18:03,20.976s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:17:43,2023-11-28 00:18:03,20.532s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_2,Chrome 119.0.0.0,,,2023-11-28 00:18:03,2023-11-28 00:18:21,17.949s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:18:04,2023-11-28 00:18:21,17.033s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_19,Chrome 119.0.0.0,,,2023-11-28 00:18:21,2023-11-28 00:18:36,14.812s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:18:22,2023-11-28 00:18:36,14.480s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_3,Chrome 119.0.0.0,,,2023-11-28 00:18:36,2023-11-28 00:18:52,15.747s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:18:37,2023-11-28 00:18:52,15.391s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_29,Chrome 119.0.0.0,,,2023-11-28 00:18:52,2023-11-28 00:19:08,15.574s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:18:52,2023-11-28 00:19:08,15.294s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_7,Chrome 119.0.0.0,,,2023-11-28 00:19:08,2023-11-28 00:19:23,15.855s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:19:08,2023-11-28 00:19:23,15.532s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_4,Chrome 119.0.0.0,,,2023-11-28 00:19:23,2023-11-28 00:19:42,18.291s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:19:24,2023-11-28 00:19:42,18.006s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_5,Chrome 119.0.0.0,,,2023-11-28 00:19:42,2023-11-28 00:20:01,19.322s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:19:42,2023-11-28 00:20:01,18.909s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_1,Chrome 119.0.0.0,,,2023-11-28 00:20:01,2023-11-28 00:20:23,21.572s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:20:02,2023-11-28 00:20:23,21.142s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_10,Chrome 119.0.0.0,,,2023-11-28 00:20:23,2023-11-28 00:20:43,20.017s,FAILED
+"openBrowser(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:20:23,2023-11-28 00:20:43,19.616s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_24,Chrome 119.0.0.0,,,2023-11-28 00:20:43,2023-11-28 00:20:56,12.943s,FAILED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:20:43,2023-11-28 00:20:56,12.529s,FAILED
+,,,,,,,
+Test Cases/Test_Web/Web_20,Chrome 119.0.0.0,,,2023-11-28 00:20:56,2023-11-28 00:21:01,4.720s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:20:56,2023-11-28 00:21:01,4.160s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_14,Chrome 119.0.0.0,,,2023-11-28 00:21:01,2023-11-28 00:21:02,1.356s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:01,2023-11-28 00:21:02,1.130s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_30,Chrome 119.0.0.0,,,2023-11-28 00:21:02,2023-11-28 00:21:06,4.480s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:02,2023-11-28 00:21:06,4.167s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_21,Chrome 119.0.0.0,,,2023-11-28 00:21:06,2023-11-28 00:21:12,5.118s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:07,2023-11-28 00:21:12,4.713s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_15,Chrome 119.0.0.0,,,2023-11-28 00:21:12,2023-11-28 00:21:18,6.003s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:12,2023-11-28 00:21:18,5.693s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_11,Chrome 119.0.0.0,,,2023-11-28 00:21:18,2023-11-28 00:21:19,1.380s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:18,2023-11-28 00:21:19,1.181s,PASSED
+,,,,,,,
+Test Cases/Test_Web/Web_25,Chrome 119.0.0.0,,,2023-11-28 00:21:19,2023-11-28 00:21:21,1.666s,PASSED
+"navigateToUrl(""https://www.w3schools.com/"")",Chrome 119.0.0.0,,,2023-11-28 00:21:19,2023-11-28 00:21:21,1.462s,PASSED
