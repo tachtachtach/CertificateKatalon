@@ -19,7 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.w3schools.com/')
 
-WebUI.takeFullPageScreenshotAsCheckpoint('checkpoint 1', FailureHandling.STOP_ON_FAILURE)
-
+WebUI.takeScreenshotAsCheckpoint('current_viewport')
 WebUI.verifyEqual('Trang', 'Viet')
 
